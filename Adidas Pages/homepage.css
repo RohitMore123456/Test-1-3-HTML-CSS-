@@ -198,7 +198,7 @@
 .shoping{
     border: 2px solid red; border: none;
     display: flex;
-    width: 79%;
+    width: 90%;
     margin-left: 125px;
     justify-content: space-between;
 }
@@ -207,11 +207,10 @@
 .box{
     border: 2px solid black;border: none;
     height: 480px;
-    width: 23%;
+    width: 35%;
 }
 
 .boximg{
-    height: 350px;
     width: 100%;
 }
 
@@ -363,6 +362,308 @@ font-size: x-large; font-weight: 700;
 }
 
 
+.navbarL{
+    height: 45px; display: flex; color: white;
+    align-items: center;background-color: black;
+    font-size: small; font-weight: bolder;justify-content: center;
+}
+
+.prenav{
+    border: 2px solid black; width: 300px; height: 10px; margin-left: 1220px; color: grey; font-size: smaller; 
+    display: flex; justify-content: space-evenly; margin-top: 8px;border: none;
+}
+
+.navi{
+    border: 2px solid red; height: 80px;
+    display: flex; border: none;margin-top: -10px;
+    
+}
+
+.navilogo{
+    width: 80px; height: 85px;margin-left: 20px;
+}
+
+.navinavi{
+    width: 600px; margin-left: 200px;
+    display: flex; justify-content: space-evenly;
+    align-items: center;
+}
+
+.navisearch {
+    border: 2px solid black; width: 250px; height: 30px; background-color: #eceff1; display: flex; 
+    align-items: center; margin-top: 27px; margin-left: 220px;border: none;
+    background-color: #eceff1; border: none;font-size: large;
+}
+
+.navinavigation {
+    border: 2px solid orangered; display: flex; justify-content: space-between; width: 100px; align-items: center; 
+    margin-left: 30px; border: none;
+}
+
+.left{
+    border: 2px solid red; height: 40rem;margin-top: 5rem;
+    width: 35rem; margin-left: 10rem;border: none;
+}
+
+.leftpic{
+    border: 2px solid black;height: 17rem;border: none;
+}
+
+.leftC1{
+    border: 2px solid green; height: 5rem;margin-top: 2rem;
+    font-size: 40px; font-weight: bolder;border: none;
+}
+
+.leftC2{
+    border: 2px solid red; height: 2rem; margin-top: 1rem;
+    border: none;
+}
+
+.leftC3{
+    border: 2px solid orange; height: 8rem; 
+    margin-top: 1rem; border: none;
+}
+
+.leftC31{
+    display: flex; border: none;
+}
+.leftC32{
+    display: flex;margin-top: 8px;border: none;
+}
+.leftC33{
+    display: flex;margin-top: 8px;border: none;
+}
+.leftC34{
+    display: flex;margin-top: 8px; border: none;
+}
+.leftC35{
+    display: flex;margin-top: 8px; border: none;
+}
+
+.leftC4{
+    border: 2px solid green; height: 3rem; margin-top: 1rem;
+    border: none;
+}
+
+.right{
+    height: 40rem; width: 35rem;
+    margin-left: 50rem; margin-top: -40rem; 
+}
+
+.right2{
+    height: 2rem; font-size: x-large;
+    font-weight: bolder; margin-top: 1rem;
+}
+
+.right3{
+    height: 1rem;margin-top: 1rem;
+    font-size: small; color: grey;
+}
+.right4{
+    height: 2rem; margin-top: 1rem;
+    font-weight: bolder;
+}
+
+.right5{
+    height: 3.5rem;margin-top: 1rem;
+    display: flex;
+}
+
+.right51{
+    border: 2px solid black; height: 3.5rem; width: 4rem;
+}
+
+.right52{
+    border: 2px solid black; height: 3.5rem; width: 4rem;
+    margin-left: 0.5rem;
+}
+
+.right53{
+    border: 2px solid black; height: 3.5rem; width: 4rem;
+    margin-left: 0.5rem;
+}
+
+.right6{
+    border: 2px solid black;margin-top: 1rem; height: 3rem;
+    font-size: xx-large; font-weight: bold; padding-left: 1rem;
+}
+
+.right7{
+    border: 2px solid black; height: 12rem;
+    margin-left: -0.4rem; border: none;
+}
+
+.right71{
+    display: flex; font-weight: lighter;
+}
+.right72{
+    display: flex; font-weight: lighter;
+}
+.right73{
+    display: flex; font-weight: lighter;
+}
+
+.right8{
+    border: 2px solid black; width: 8.5rem; height: 3rem;
+    display: flex; padding-left: 0.8rem; align-items: center;
+    background-color: black; color: white;
+}
+
+.right9{
+    border: 2px solid black; width: 9.3rem;height: 3rem;
+    margin-left: 0.2rem; margin-top: -3rem;
+}
+
+.cart{
+    border: 2px solid red; width: 80%; height: 40rem;
+    margin-top: 4rem; margin-left: 10.5rem; border: none;
+}
+
+.leftc{
+    border: 2px solid black; width: 60%; height: 40rem; border: none;
+}
+
+.leftc1{
+    border: 2px solid green; height: 2.5rem; font-size: xx-large;
+    font-weight: 700;border: none;
+}
+
+.leftc2{
+    border: 2px solid green; height: 1.5rem;margin-top: 1rem;
+    border: none;
+}
+
+.leftc3{
+    border: 2px solid green; height: 1.5rem; margin-top: 1rem;
+    border: none;
+}
+
+.left4{
+    border: 2px solid grey; height: 15rem; 
+}
+
+.left5{
+    border: 2px solid grey; height: 15rem; margin-top: 2rem;
+}
+
+.left41{
+    display: flex;
+}
+
+.imgc{
+    border: 2px solid red;height: 15rem; width: 15rem;
+    border: none;
+}
+
+.imgsrc{
+    width: 100%;
+}
+
+.left411{
+    border: 2px solid red;width: 15rem; height: 15rem;
+    border: none; margin-left: 2rem;
+    
+}
+
+.left4111{
+    border: 2px solid red; width: 15rem;height: 1.5rem;
+    margin-top: 1rem;border: none;
+}
+
+.left4112{
+    border: 2px solid red; width: 15rem;height: 1.5rem;
+    margin-top: 0.2rem;border: none;
+}
+
+.left4113{
+    border: 2px solid red; width: 15rem;height: 1.5rem;
+    margin-top: 1.5rem;border: none;
+}
+
+.left4114{
+    border: 2px solid red; width: 15rem;height: 1.5rem;
+    margin-top: 0.2rem;border: none;
+}
+
+.left4115{
+    border: 2px solid black; width: 7rem;height: 3.3rem;
+    margin-top: 1.5rem; display: flex;align-items: center;
+    border: none;
+}
+
+.left412{
+    border: 2px solid red; height: 1.5rem; width: 10rem;
+    margin-left: 5rem; display: flex;border: none; margin-top: 1rem;
+}
+
+.left4122{
+    font-size: x-large; margin-left: 2rem;
+    margin-top: -0.4rem;
+}
+
+.right{
+    border: 2px solid red; width: 33%; height:39.5rem;
+    border: none;
+}
+
+
+.right1cart{
+    border: 2px solid black; height: 3rem; width: 90%;
+    display: flex; align-items: center; background-color: black;
+    color: white; font-weight: 600;
+}
+.right12{
+    margin-left: 15rem;
+}
+
+.right2{
+    border: 2px solid black; height: 3rem; width: 90%;
+    margin-left: 0.2rem;border: none;
+}
+.right3{
+    border: 2px solid red; height: 2rem; font-size: larger;
+    color: black; font-weight: 700;border: none;
+}
+
+.right44{
+    margin-top: 1rem;display: flex; justify-content: space-between;
+}
+
+.right55{
+    display: flex; justify-content: space-between; margin-top: 0.5rem;
+}
+
+.right66{
+    margin-top: 2rem; display: flex; justify-content: space-between;
+    font-size: medium; font-weight: 700;
+}
+
+.right88{
+    margin-top: 2.5rem; font-weight: 550;
+}
+.right99{
+    margin-top: 4rem; font-size: smaller; font-weight: 600;
+}
+
+.cartbottom{
+    border: 2px solid black; height: 5.5rem;margin-top: 5rem; 
+    width: 100rem; margin-left: -11rem; background-color: black;
+    color: white; align-items: center; 
+}
+
+.bottom1{
+    display: flex; justify-content: center;font-size: smaller;
+}
+
+.bottom2{
+    display: flex; justify-content: center;margin-top: 0.5rem;
+    font-size: smaller;
+}
+
+.bottom3{
+    display: flex; justify-content: center;margin-top: 0.5rem;
+    color: grey;font-size: smaller;
+}
 
 
 
